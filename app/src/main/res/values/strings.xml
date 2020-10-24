@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">COVID-19 stats</string>
+    <string name="error_country_fetch_failed">Country fetch failed</string>
+    <string name="exception_country_fetch_failed">Country fetch failed by exception</string>
+    <string name="country_flag_image">Country flag image</string>
+    <string name="cases">Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="critical">Critical</string>
+    <string name="active">Active</string>
+    <string name="today_cases">Today cases</string>
+    <string name="total_deaths">Total deaths</string>
+    <string name="today_deaths">Today deaths</string>
+    <string name="country">Country</string>
+    <string name="tests">Tests</string>
+    <string name="country_data_fetched">County data fetched</string>
+</resources>
